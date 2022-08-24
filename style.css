@@ -5,6 +5,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+::selection {
+    color: #ffd;
+    background: #d161ff;
+}
 body{
     height: 100vh;
     background: linear-gradient(
